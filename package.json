@@ -1,0 +1,37 @@
+{
+  "name": "snake-api",
+  "version": "1.0.0",
+  "description": "A simple API that utilizes ExpressJS to serve snake images.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treboryx/snake-api.git"
+  },
+  "keywords": [
+    "SnakeAPI",
+    "snake",
+    "images",
+    "snake",
+    "api",
+    "images",
+    "snake-api",
+    "snake",
+    "api"
+  ],
+  "author": "treboryx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treboryx/snake-api/issues"
+  },
+  "homepage": "https://github.com/treboryx/snake-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0"
+  }
+}
